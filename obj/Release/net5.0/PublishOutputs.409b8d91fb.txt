@@ -1,0 +1,5 @@
+C:\Users\Joseph\Desktop\UdemyPractice.exe
+C:\Users\Joseph\Desktop\UdemyPractice.dll
+C:\Users\Joseph\Desktop\UdemyPractice.deps.json
+C:\Users\Joseph\Desktop\UdemyPractice.runtimeconfig.json
+C:\Users\Joseph\Desktop\UdemyPractice.pdb
