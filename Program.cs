@@ -49,9 +49,13 @@ namespace TicTacToe
 
                 // check if game won
                 GameWonChecker();
+                if (gameWon)
+                    break;
 
                 //check if game tie
                 GameTieCheck();
+                if (gameTie)
+                    break;
 
             }
             Console.ReadLine();
